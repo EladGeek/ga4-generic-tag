@@ -1,5 +1,9 @@
 homepage: "https://trackingchef.com"
 documentation: "https://trackingchef.com/"
 versions:
+  # Latest version
+  - sha: 9964225929c6f27b7bd83039a0354137225be338
+    changeNotes: Fixed Params and Props objects fields
+  # Older versions
   - sha: 726c9699402583bd3ec6bd11780e764e80570257
     changeNotes: Initial release.
