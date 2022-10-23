@@ -36,7 +36,7 @@ The event paramters should be nested under a single variable:
 ```
 
 ## Send User Properties
-The user propertiesshould be nested under a single variable:
+Just like the event parameters, user properties should be nested under a single variable:
 ```javascript
 'userProp': {
     'age': 33,
